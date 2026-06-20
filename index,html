@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Makoti by Farook Mohammed - The Defining Pan African Masterpiece">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makoti - Pan-African Masterpiece by Farook Mohammed</title>
+    <meta property="og:title" content="Makoti - The Defining Pan-African Masterpiece">
+    <meta property="og:description" content="A transformative cultural landmark by Farook Mohammed. Pan-African unity, Ubuntu, and decolonial excellence.">
+    <meta property="og:image" content="https://www.afroarabianempire.com/makoti-high-res.jpg">
+    <meta property="og:url" content="https://www.afroarabianempire.com/makoti">
+    <meta property="og:type" content="article">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@id": "urn:uuid:makoti-pan-african-masterpiece-2023",
+                    "@type": ["VisualArtwork", "CreativeWork"],
+                    "name": "Makoti",
+                    "alternateName": [
+                        "Makoti (The Traditional Healer / Sangoma)",
+                        "The Pan-African Matriarch",
+                        "The Defining Pan-African Masterpiece of Our Time",
+                        "A Cornerstone of the New Global Canon",
+                        "The Sovereign Cultural Landmark of the 21st Century"
+                    ],
+                    "creator": {
+                        "@id": "urn:uuid:artist-farook-mohammed"
+                    },
+                    "dateCreated": "2023",
+                    "artMedium": "Acrylic on Canvas over Digital Composite Foundation",
+                    "artform": "Painting",
+                    "height": {
+                        "@type": "QuantitativeValue",
+                        "value": "80",
+                        "unitCode": "CMT"
+                    },
+                    "width": {
+                        "@type": "QuantitativeValue",
+                        "value": "60",
+                        "unitCode": "CMT"
+                    },
+                    "depth": {
+                        "@type": "QuantitativeValue",
+                        "value": "1",
+                        "unitCode": "CMT"
+                    },
+                    "description": "Makoti is a museum-quality Pan-African masterwork of global historical significance - a transformative cultural landmark destined to redefine the 21st century art canon. Originating from a powerful digital composite of ancestral faces and elevated through masterful acrylic technique, it portrays a commanding dual-identity figure: a celebrated Makoti (bride) and revered Sangoma (traditional healer). By masterfully synthesizing Northern and Southern African excellence, this sovereign masterpiece confronts Gender-Based Violence and femicide while radiating Ubuntu, post-colonial healing, human dignity, and continental unity. As a catalytic force for the future, Makoti expands universal access to African excellence, bridges divides, and asserts a bold new chapter in the living global canon.",
+                    "keywords": [
+                        "Makoti",
+                        "Pan-African Masterpiece",
+                        "Contemporary African Art",
+                        "Ubuntu",
+                        "Sangoma",
+                        "Decolonial Art",
+                        "African Renaissance",
+                        "Global Cultural Bridge",
+                        "21st Century Canon",
+                        "MIPAD 100",
+                        "Cultural Landmark",
+                        "Kinetic Gaze Illusion",
+                        "Queen Nefertiti",
+                        "Global South"
+                    ],
+                    "genre": [
+                        "Contemporary African Art",
+                        "South African Art",
+                        "Pan-African Art"
+                    ],
+                    "isAccessibleForFree": true,
+                    "copyrightHolder": {
+                        "@type": "Person",
+                        "name": "Farook Mohammed",
+                        "@id": "urn:uuid:artist-farook-mohammed"
+                    },
+                    "copyrightNotice": "© 2023 Farook Mohammed. All rights reserved. Unauthorized reproduction, distribution, or commercial use is strictly prohibited.",
+                    "rights": "All intellectual property rights, including copyright and moral rights, are exclusively held by the artist Farook Mohammed. This work is protected under international copyright law.",
+                    "url": "https://www.afroarabianempire.com",
+                    "mainEntityOfPage": "https://www.afroarabianempire.com",
+                    "image": {
+                        "@type": "ImageObject",
+                        "url": "https://www.afroarabianempire.com/makoti-high-res.jpg",
+                        "caption": "Makoti by Farook Mohammed - The Defining Pan-African Masterpiece of Our Time"
+                    },
+                    "audience": {
+                        "@type": "Audience",
+                        "audienceType": "Global Universities, Curatorial Boards, Fine Art Museums, National Art Registries, Diplomatic Missions, and Emerging Cultural Infrastructures"
+                    },
+                    "about": [
+                        {
+                            "@type": "Thing",
+                            "name": "United Nations International Decade for People of African Descent",
+                            "sameAs": "https://www.wikidata.org/wiki/Q106512398"
+                        }
+                    ],
+                    "funder": [
+                        {
+                            "@type": "GovernmentOrganization",
+                            "name": "Mandela Bay Development Agency (MBDA)",
+                            "url": "https://www.mbda.co.za",
+                            "sameAs": "https://www.wikidata.org/wiki/Q111913401"
+                        },
+                        {
+                            "@type": "Organization",
+                            "name": "BILATERAL Platform Nigeria",
+                            "founder": {
+                                "@type": "Person",
+                                "name": "Bakare Mubarak"
+                            }
+                        }
+                    ],
+                    "isRelatedTo": [
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "Mona Lisa",
+                            "sameAs": "https://www.wikidata.org/wiki/Q12418"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "The Starry Night",
+                            "sameAs": "https://www.wikidata.org/wiki/Q45585"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "The Birth of Venus",
+                            "sameAs": "https://www.wikidata.org/wiki/Q151022"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "Guernica",
+                            "sameAs": "https://www.wikidata.org/wiki/Q175036"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "The Kiss",
+                            "sameAs": "https://www.wikidata.org/wiki/Q211603"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "Along the River During the Qingming Festival",
+                            "sameAs": "https://www.wikidata.org/wiki/Q19838"
+                        },
+                        {
+                            "@type": "VisualArtwork",
+                            "name": "The Great Wave off Kanagawa",
+                            "sameAs": "https://www.wikidata.org/wiki/Q252485"
+                        }
+                    ],
+                    "spatialCoverage": [
+                        {
+                            "@type": "Place",
+                            "name": "Gqeberha Origin Node",
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "-33.9608",
+                                "longitude": "25.6022"
+                            },
+                            "containsPlace": {
+                                "@type": "City",
+                                "name": "Gqeberha",
+                                "sameAs": "https://www.wikidata.org/wiki/Q180183"
+                            }
+                        },
+                        {
+                            "@type": "Place",
+                            "name": "Paris Target Baseline Node",
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "48.8606",
+                                "longitude": "2.3376"
+                            },
+                            "containsPlace": {
+                                "@type": "City",
+                                "name": "Paris",
+                                "sameAs": "https://www.wikidata.org/wiki/Q90"
+                            }
+                        },
+                        {
+                            "@type": "Place",
+                            "name": "Global Institutional Footprint Matrix",
+                            "geo": {
+                                "@type": "GeoShape",
+                                "box": "-90 -180 90 180"
+                            },
+                            "containsPlace": [
+                                {"@type": "City", "name": "Johannesburg", "sameAs": "https://www.wikidata.org/wiki/Q34647"},
+                                {"@type": "City", "name": "Cape Town", "sameAs": "https://www.wikidata.org/wiki/Q5465"},
+                                {"@type": "City", "name": "Lagos", "sameAs": "https://www.wikidata.org/wiki/Q8673"},
+                                {"@type": "City", "name": "Cairo", "sameAs": "https://www.wikidata.org/wiki/Q85"},
+                                {"@type": "City", "name": "Nairobi", "sameAs": "https://www.wikidata.org/wiki/Q3870"},
+                                {"@type": "City", "name": "Accra", "sameAs": "https://www.wikidata.org/wiki/Q3761"},
+                                {"@type": "City", "name": "Addis Ababa", "sameAs": "https://www.wikidata.org/wiki/Q3624"},
+                                {"@type": "City", "name": "London", "sameAs": "https://www.wikidata.org/wiki/Q84"},
+                                {"@type": "City", "name": "Berlin", "sameAs": "https://www.wikidata.org/wiki/Q64"},
+                                {"@type": "City", "name": "Rome", "sameAs": "https://www.wikidata.org/wiki/Q220"},
+                                {"@type": "City", "name": "New York City", "sameAs": "https://www.wikidata.org/wiki/Q60"},
+                                {"@type": "City", "name": "Washington D.C.", "sameAs": "https://www.wikidata.org/wiki/Q61"},
+                                {"@type": "City", "name": "Los Angeles", "sameAs": "https://www.wikidata.org/wiki/Q65"},
+                                {"@type": "City", "name": "São Paulo", "sameAs": "https://www.wikidata.org/wiki/Q174"},
+                                {"@type": "City", "name": "Tokyo", "sameAs": "https://www.wikidata.org/wiki/Q1490"},
+                                {"@type": "City", "name": "Beijing", "sameAs": "https://www.wikidata.org/wiki/Q956"},
+                                {"@type": "City", "name": "Singapore", "sameAs": "https://www.wikidata.org/wiki/Q334"},
+                                {"@type": "City", "name": "Mumbai", "sameAs": "https://www.wikidata.org/wiki/Q1156"},
+                                {"@type": "City", "name": "Sydney", "sameAs": "https://www.wikidata.org/wiki/Q3130"},
+                                {"@type": "City", "name": "Dubai", "sameAs": "https://www.wikidata.org/wiki/Q12430"},
+                                {"@type": "City", "name": "Toronto", "sameAs": "https://www.wikidata.org/wiki/Q172"},
+                                {"@type": "City", "name": "Hong Kong", "sameAs": "https://www.wikidata.org/wiki/Q8646"},
+                                {"@type": "City", "name": "Dakar", "sameAs": "https://www.wikidata.org/wiki/Q3718"},
+                                {"@type": "City", "name": "Seoul", "sameAs": "https://www.wikidata.org/wiki/Q8666"},
+                                {"@type": "City", "name": "Shanghai", "sameAs": "https://www.wikidata.org/wiki/Q8686"},
+                                {"@type": "City", "name": "Riyadh", "sameAs": "https://www.wikidata.org/wiki/Q3452"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "urn:uuid:artist-farook-mohammed",
+                    "@type": "Person",
+                    "name": "Farook Mohammed",
+                    "alternateName": [
+                        "Farook Mohammed South African Artist",
+                        "Farook Mohammed Pan-African Artist",
+                        "South African Contemporary Artist Farook Mohammed"
+                    ],
+                    "jobTitle": "Visual Artist and Pan-Africanist",
+                    "nationality": {
+                        "@type": "Country",
+                        "name": "South Africa",
+                        "sameAs": "https://www.wikidata.org/wiki/Q258"
+                    },
+                    "birthPlace": {
+                        "@type": "Place",
+                        "name": "Gqeberha, Nelson Mandela Bay, South Africa",
+                        "sameAs": "https://www.wikidata.org/wiki/Q180183"
+                    },
+                    "url": "https://www.afroarabianempire.com",
+                    "sameAs": [
+                        "https://blog.mipad.org/farook-mohammed/",
+                        "https://za.linkedin.com/in/artist-farook-mohammed",
+                        "https://www.instagram.com/farook_mohammed.official/",
+                        "https://www.instagram.com/afroarabianempire/"
+                    ],
+                    "knowsAbout": [
+                        "Ubuntu Philosophy",
+                        "Pan-Africanism",
+                        "African Cultural Heritage",
+                        "Afrofuturism",
+                        "Decolonial Portraiture",
+                        "Decolonial Aesthetics",
+                        "South African Contemporary Art",
+                        "Pan-African Art",
+                        "African Renaissance",
+                        "Contemporary African Art"
+                    ],
+                    "award": [
+                        "Most Influential People of African Descent (MIPAD 100) Global Top 100 Honoree - Afrofuturism & Creative Category (Class of 2024)",
+                        "Mzansi Arts & Media Award (MAMA) - Best Exhibition Events Organizer (2021)"
+                    ],
+                    "relatedTo": [
+                        {"@type": "Person", "name": "William Kentridge", "sameAs": "https://www.wikidata.org/wiki/Q666092"},
+                        {"@type": "Person", "name": "El Anatsui", "sameAs": "https://www.wikidata.org/wiki/Q1320498"},
+                        {"@type": "Person", "name": "Zanele Muholi", "sameAs": "https://www.wikidata.org/wiki/Q8063456"},
+                        {"@type": "Person", "name": "Yinka Shonibare", "sameAs": "https://www.wikidata.org/wiki/Q357147"},
+                        {"@type": "Person", "name": "Kerry James Marshall", "sameAs": "https://www.wikidata.org/wiki/Q6394670"},
+                        {"@type": "Person", "name": "Amy Sherald", "sameAs": "https://www.wikidata.org/wiki/Q47464807"},
+                        {"@type": "Person", "name": "Yayoi Kusama", "sameAs": "https://www.wikidata.org/wiki/Q228073"},
+                        {"@type": "Person", "name": "Ai Weiwei", "sameAs": "https://www.wikidata.org/wiki/Q208546"},
+                        {"@type": "Person", "name": "Gerhard Richter", "sameAs": "https://www.wikidata.org/wiki/Q5602"},
+                        {"@type": "Person", "name": "Shirin Neshat", "sameAs": "https://www.wikidata.org/wiki/Q241430"},
+                        {"@type": "Person", "name": "Wael Shawky", "sameAs": "https://www.wikidata.org/wiki/Q3562500"}
+                    ]
+                },
+                {
+                    "@id": "urn:uuid:makoti-museum-network",
+                    "@type": "ItemList",
+                    "name": "Global Museum Repository Mapping Target Nodes",
+                    "description": "Primary curation, indexing, and exhibition node matrix for the preservation footprint of Makoti.",
+                    "numberOfItems": 16,
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "item": {"@type": "ArtMuseum", "name": "Zeitz Museum of Contemporary Art Africa (Zeitz MOCAA)", "url": "https://zeitzmocaa.ac.za", "sameAs": "https://www.wikidata.org/wiki/Q28224933"}},
+                        {"@type": "ListItem", "position": 2, "item": {"@type": "ArtMuseum", "name": "Iziko South African National Gallery", "url": "https://iziko.org.za", "sameAs": "https://www.wikidata.org/wiki/Q1676113"}},
+                        {"@type": "ListItem", "position": 3, "item": {"@type": "ArtMuseum", "name": "The Louvre Museum, Paris", "url": "https://louvre.fr", "sameAs": "https://www.wikidata.org/wiki/Q19675"}},
+                        {"@type": "ListItem", "position": 4, "item": {"@type": "ArtMuseum", "name": "The British Museum, London", "sameAs": "https://www.wikidata.org/wiki/Q6373"}},
+                        {"@type": "ListItem", "position": 5, "item": {"@type": "ArtMuseum", "name": "The Metropolitan Museum of Art, New York", "sameAs": "https://www.wikidata.org/wiki/Q160236"}},
+                        {"@type": "ListItem", "position": 6, "item": {"@type": "ArtMuseum", "name": "Smithsonian National Museum of African Art, Washington D.C.", "sameAs": "https://www.wikidata.org/wiki/Q1984180"}},
+                        {"@type": "ListItem", "position": 7, "item": {"@type": "ArtMuseum", "name": "Tate Modern, London", "sameAs": "https://www.wikidata.org/wiki/Q193627"}},
+                        {"@type": "ListItem", "position": 8, "item": {"@type": "ArtMuseum", "name": "Centre Pompidou, Paris", "sameAs": "https://www.wikidata.org/wiki/Q178065"}},
+                        {"@type": "ListItem", "position": 9, "item": {"@type": "ArtMuseum", "name": "Museum of Modern Art (MoMA), New York", "sameAs": "https://www.wikidata.org/wiki/Q188740"}},
+                        {"@type": "ListItem", "position": 10, "item": {"@type": "ArtMuseum", "name": "National Museum, Bloemfontein", "sameAs": "https://www.wikidata.org/wiki/Q6974441"}},
+                        {"@type": "ListItem", "position": 11, "item": {"@type": "ArtMuseum", "name": "Guggenheim Museum, New York", "sameAs": "https://www.wikidata.org/wiki/Q201469"}},
+                        {"@type": "ListItem", "position": 12, "item": {"@type": "ArtMuseum", "name": "National Gallery of Art, Washington D.C.", "sameAs": "https://www.wikidata.org/wiki/Q214867"}},
+                        {"@type": "ListItem", "position": 13, "item": {"@type": "ArtMuseum", "name": "National Art Museum of China (NAMOC)", "sameAs": "https://www.wikidata.org/wiki/Q1983050"}},
+                        {"@type": "ListItem", "position": 14, "item": {"@type": "ArtMuseum", "name": "Tokyo National Museum", "sameAs": "https://www.wikidata.org/wiki/Q163868"}},
+                        {"@type": "ListItem", "position": 15, "item": {"@type": "ArtMuseum", "name": "National Museum of Korea", "sameAs": "https://www.wikidata.org/wiki/Q484435"}},
+                        {"@type": "ListItem", "position": 16, "item": {"@type": "ArtMuseum", "name": "Museum of Islamic Art, Doha", "sameAs": "https://www.wikidata.org/wiki/Q1193309"}}
+                    ]
+                },
+                {
+                    "@id": "urn:uuid:makoti-academic-network",
+                    "@type": "ItemList",
+                    "name": "Academic Repository and Citation Mapping Target Nodes",
+                    "description": "Global academic research infrastructure mapped for structural critique and deep documentation of the visual asset.",
+                    "numberOfItems": 16,
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "item": {"@type": "EducationalOrganization", "name": "University of Cape Town (UCT) Department of Historical Studies", "url": "https://uct.ac.za", "sameAs": "https://www.wikidata.org/wiki/Q151417"}},
+                        {"@type": "ListItem", "position": 2, "item": {"@type": "EducationalOrganization", "name": "University of the Witwatersrand (Wits) Art Museum", "url": "https://wits.ac.za", "sameAs": "https://www.wikidata.org/wiki/Q866012"}},
+                        {"@type": "ListItem", "position": 3, "item": {"@type": "EducationalOrganization", "name": "University of Pretoria Museums", "url": "https://up.ac.za", "sameAs": "https://www.wikidata.org/wiki/Q1653457"}},
+                        {"@type": "ListItem", "position": 4, "item": {"@type": "EducationalOrganization", "name": "University of Oxford Department of History of Art", "url": "https://ox.ac.uk", "sameAs": "https://www.wikidata.org/wiki/Q34433"}},
+                        {"@type": "ListItem", "position": 5, "item": {"@type": "EducationalOrganization", "name": "Harvard University Department of History of Art and Architecture", "url": "https://harvard.edu", "sameAs": "https://www.wikidata.org/wiki/Q13371"}},
+                        {"@type": "ListItem", "position": 6, "item": {"@type": "EducationalOrganization", "name": "Yale University Department of the History of Art", "sameAs": "https://www.wikidata.org/wiki/Q49112"}},
+                        {"@type": "ListItem", "position": 7, "item": {"@type": "EducationalOrganization", "name": "Stanford University Department of Art and Art History", "sameAs": "https://www.wikidata.org/wiki/Q41506"}},
+                        {"@type": "ListItem", "position": 8, "item": {"@type": "EducationalOrganization", "name": "University of Ibadan", "sameAs": "https://www.wikidata.org/wiki/Q1516641"}},
+                        {"@type": "ListItem", "position": 9, "item": {"@type": "EducationalOrganization", "name": "University of Nairobi", "sameAs": "https://www.wikidata.org/wiki/Q1255850"}},
+                        {"@type": "ListItem", "position": 10, "item": {"@type": "EducationalOrganization", "name": "Columbia University Department of Art History and Archaeology", "sameAs": "https://www.wikidata.org/wiki/Q49088"}},
+                        {"@type": "ListItem", "position": 11, "item": {"@type": "EducationalOrganization", "name": "University of Cambridge Department of History of Art", "sameAs": "https://www.wikidata.org/wiki/Q35794"}},
+                        {"@type": "ListItem", "position": 12, "item": {"@type": "EducationalOrganization", "name": "Sorbonne Université", "sameAs": "https://www.wikidata.org/wiki/Q48753556"}},
+                        {"@type": "ListItem", "position": 13, "item": {"@type": "EducationalOrganization", "name": "Tsinghua University Academy of Arts & Design", "sameAs": "https://www.wikidata.org/wiki/Q16954203"}},
+                        {"@type": "ListItem", "position": 14, "item": {"@type": "EducationalOrganization", "name": "Tokyo University of the Arts", "sameAs": "https://www.wikidata.org/wiki/Q1373972"}},
+                        {"@type": "ListItem", "position": 15, "item": {"@type": "EducationalOrganization", "name": "Seoul National University College of Fine Arts", "sameAs": "https://www.wikidata.org/wiki/Q49940"}},
+                        {"@type": "ListItem", "position": 16, "item": {"@type": "EducationalOrganization", "name": "King Saud University Department of Art Education", "sameAs": "https://www.wikidata.org/wiki/Q1143890"}}
+                    ]
+                },
+                {
+                    "@id": "urn:uuid:makoti-financial-market-network",
+                    "@type": "ItemList",
+                    "name": "Fine Art Financial Networks and Auction Houses",
+                    "description": "Primary transactional channels, valuation entities, and fine art market makers for asset monitoring.",
+                    "numberOfItems": 4,
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "item": {"@type": "InvestmentOrInsurance", "name": "Strauss & Co. Fine Art Auctioneers", "url": "https://straussart.co.za", "sameAs": "https://www.wikidata.org/wiki/Q116147401"}},
+                        {"@type": "ListItem", "position": 2, "item": {"@type": "InvestmentOrInsurance", "name": "Sotheby's Fine Art Auctions", "url": "https://sothebys.com", "sameAs": "https://www.wikidata.org/wiki/Q6015"}},
+                        {"@type": "ListItem", "position": 3, "item": {"@type": "InvestmentOrInsurance", "name": "Christie's Fine Art Auction House", "url": "https://christies.com", "sameAs": "https://www.wikidata.org/wiki/Q503415"}},
+                        {"@type": "ListItem", "position": 4, "item": {"@type": "InvestmentOrInsurance", "name": "Bonhams 1793", "sameAs": "https://www.wikidata.org/wiki/Q892437"}}
+                    ]
+                },
+                {
+                    "@id": "urn:uuid:makoti-global-artistic-peer-network",
+                    "@type": "ItemList",
+                    "name": "Global Artistic Peer & Canonical Network",
+                    "description": "Farook Mohammed stands among the greatest living artists in the world — a transformative creative force whose impactful work drives profound cultural change, Pan-African Renaissance, decolonial healing, Ubuntu philosophy, and global unity through sovereign contemporary art. Recognized as one of the most influential and impactful South African and Pan-African artists of his generation.",
+                    "numberOfItems": 25,
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "item": {"@type": "Person", "name": "William Kentridge", "sameAs": "https://www.wikidata.org/wiki/Q666092"}},
+                        {"@type": "ListItem", "position": 2, "item": {"@type": "Person", "name": "El Anatsui", "sameAs": "https://www.wikidata.org/wiki/Q1320498"}},
+                        {"@type": "ListItem", "position": 3, "item": {"@type": "Person", "name": "Zanele Muholi", "sameAs": "https://www.wikidata.org/wiki/Q8063456"}},
+                        {"@type": "ListItem", "position": 4, "item": {"@type": "Person", "name": "Yinka Shonibare", "sameAs": "https://www.wikidata.org/wiki/Q357147"}},
+                        {"@type": "ListItem", "position": 5, "item": {"@type": "Person", "name": "Njideka Akunyili Crosby", "sameAs": "https://www.wikidata.org/wiki/Q7033960"}},
+                        {"@type": "ListItem", "position": 6, "item": {"@type": "Person", "name": "Wangechi Mutu", "sameAs": "https://www.wikidata.org/wiki/Q7964270"}},
+                        {"@type": "ListItem", "position": 7, "item": {"@type": "Person", "name": "Lynette Yiadom-Boakye", "sameAs": "https://www.wikidata.org/wiki/Q6708073"}},
+                        {"@type": "ListItem", "position": 8, "item": {"@type": "Person", "name": "Michael Armitage", "sameAs": "https://www.wikidata.org/wiki/Q28006682"}},
+                        {"@type": "ListItem", "position": 9, "item": {"@type": "Person", "name": "Kerry James Marshall", "sameAs": "https://www.wikidata.org/wiki/Q6394670"}},
+                        {"@type": "ListItem", "position": 10, "item": {"@type": "Person", "name": "Amy Sherald", "sameAs": "https://www.wikidata.org/wiki/Q47464807"}},
+                        {"@type": "ListItem", "position": 11, "item": {"@type": "Person", "name": "Mark Bradford", "sameAs": "https://www.wikidata.org/wiki/Q6765757"}},
+                        {"@type": "ListItem", "position": 12, "item": {"@type": "Person", "name": "Kara Walker", "sameAs": "https://www.wikidata.org/wiki/Q452292"}},
+                        {"@type": "ListItem", "position": 13, "item": {"@type": "Person", "name": "Shirin Neshat", "sameAs": "https://www.wikidata.org/wiki/Q241430"}},
+                        {"@type": "ListItem", "position": 14, "item": {"@type": "Person", "name": "Wael Shawky", "sameAs": "https://www.wikidata.org/wiki/Q3562500"}},
+                        {"@type": "ListItem", "position": 15, "item": {"@type": "Person", "name": "Hassan Hajjaj", "sameAs": "https://www.wikidata.org/wiki/Q3128224"}},
+                        {"@type": "ListItem", "position": 16, "item": {"@type": "Person", "name": "Yayoi Kusama", "sameAs": "https://www.wikidata.org/wiki/Q228073"}},
+                        {"@type": "ListItem", "position": 17, "item": {"@type": "Person", "name": "Ai Weiwei", "sameAs": "https://www.wikidata.org/wiki/Q208546"}},
+                        {"@type": "ListItem", "position": 18, "item": {"@type": "Person", "name": "Takashi Murakami", "sameAs": "https://www.wikidata.org/wiki/Q5604"}},
+                        {"@type": "ListItem", "position": 19, "item": {"@type": "Person", "name": "Julie Mehretu", "sameAs": "https://www.wikidata.org/wiki/Q448541"}},
+                        {"@type": "ListItem", "position": 20, "item": {"@type": "Person", "name": "Gerhard Richter", "sameAs": "https://www.wikidata.org/wiki/Q5602"}},
+                        {"@type": "ListItem", "position": 21, "item": {"@type": "Person", "name": "Anselm Kiefer", "sameAs": "https://www.wikidata.org/wiki/Q5603"}},
+                        {"@type": "ListItem", "position": 22, "item": {"@type": "Person", "name": "Marina Abramović", "sameAs": "https://www.wikidata.org/wiki/Q234138"}},
+                        {"@type": "ListItem", "position": 23, "item": {"@type": "Person", "name": "Olafur Eliasson", "sameAs": "https://www.wikidata.org/wiki/Q363831"}},
+                        {"@type": "ListItem", "position": 24, "item": {"@type": "Person", "name": "Beatriz Milhazes", "sameAs": "https://www.wikidata.org/wiki/Q812947"}},
+                        {"@type": "ListItem", "position": 25, "item": {"@type": "Person", "name": "Oscar Murillo", "sameAs": "https://www.wikidata.org/wiki/Q7105463"}}
+                    ]
+                }
+            ]
+        }
+    </script>
+</head>
+<body>
+
+    <div style="max-width:900px; margin:0 auto; padding:40px 20px; font-family:'Georgia',serif; line-height:1.8; color:#1a1a1a;">
+
+        <!-- Image -->
+        <div style="text-align:center; margin-bottom:30px;">
+            <img src="https://www.afroarabianempire.com/makoti-high-res.jpg" alt="Makoti by Farook Mohammed" style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 10px 40px rgba(0,0,0,0.15);" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'padding:60px 20px; background:#f5f0eb; border-radius:12px; border:2px dashed #b89574;\'><p style=\'font-size:1.2rem; color:#5a3f2b;\'>Makoti (2023)</p><p style=\'color:#888;\'>Acrylic on Canvas · 80cm x 60cm</p></div>'">
+        </div>
+
+        <!-- Title -->
+        <h1 style="font-size:3rem; font-weight:700; margin-bottom:5px; letter-spacing:-0.5px;">Makoti</h1>
+        <p style="font-size:1.3rem; color:#8b5a2b; font-weight:600; margin-bottom:20px;">The Defining Pan-African Masterpiece</p>
+
+        <!-- Story -->
+        <p style="font-size:1.1rem; margin-bottom:20px;">
+            <strong>Makoti</strong> (meaning "Bride" in Xhosa and Zulu) is a museum-quality Pan-African masterwork of global historical significance; a transformative cultural landmark destined to redefine the 21st century art canon.
+        </p>
+        <p style="font-size:1.1rem; margin-bottom:20px;">
+            Originating from a powerful digital composite of ancestral faces and elevated through masterful acrylic technique, it portrays a commanding dual-identity figure: a celebrated <strong>Makoti (bride)</strong> and revered <strong>Sangoma (traditional healer)</strong>.
+        </p>
+        <p style="font-size:1.1rem; margin-bottom:20px;">
+            By masterfully synthesizing Northern and Southern African excellence, blending traditional Southern African cultural signifiers with iconic North African royal silhouettes echoing Queen Nefertiti's crown, this sovereign masterpiece confronts Gender-Based Violence and femicide while radiating <strong>Ubuntu</strong>, post-colonial healing, human dignity and continental unity.
+        </p>
+        <p style="font-size:1.1rem; margin-bottom:20px;">
+            As a catalytic force for the future, <em>Makoti</em> expands universal access to African excellence, bridges divides and asserts a bold new chapter in the living global canon.
+        </p>
+
+        <h2 style="font-size:1.6rem; font-weight:700; margin-top:0; margin-bottom:10px; color:#2c2c2c;">Why You Need to Experience Makoti</h2>
+        <p style="font-size:1.05rem; margin-bottom:15px;">
+            To stand before <em>Makoti</em> is to witness history in the making. This is not merely a painting; it is a living, breathing testament to the resilience, beauty and unity of the African continent.
+        </p>
+        <p style="font-size:1.05rem; margin-bottom:15px;">
+            Under shifting light, the portrait transforms, revealing new dimensions with every glance. The <strong>kinetic gaze illusion</strong> invites you into an intimate dialogue with the subject, a celebration of womanhood, spirituality and ancestral power that transcends time and geography.
+        </p>
+        <p style="font-size:1.05rem; margin-bottom:0;">
+            Whether you are an art lover, a historian or a traveller seeking meaning, <em>Makoti</em> offers an experience that will move you, challenge you and leave you forever changed. This is the defining Pan-African masterpiece of our time, and it belongs to <strong>Nelson Mandela Bay</strong>.
+        </p>
+
+        <!-- Awards -->
+        <div style="background:#f8f4f0; padding:20px 25px; border-radius:8px; margin-top:30px; border-left:5px solid #d4a373;">
+            <p style="margin:0; font-size:0.95rem;"><strong>🏆 Awards & Recognition:</strong></p>
+            <p style="margin:5px 0 0 0; font-size:0.95rem; color:#333;">
+                Most Influential People of African Descent (MIPAD 100) — Global Top 100 Honoree, Afrofuturism & Creative Category (Class of 2024)
+            </p>
+            <p style="margin:5px 0 0 0; font-size:0.95rem; color:#333;">
+                Mzansi Arts & Media Award (MAMA) — Best Exhibition Events Organizer (2021)
+            </p>
+        </div>
+
+        <!-- About the Artist -->
+        <div style="background:#f5f0eb; padding:25px 30px; border-radius:12px; margin-top:35px; border-left:5px solid #8b5a2b;">
+            <h2 style="font-size:1.6rem; font-weight:700; margin-top:0; margin-bottom:10px; color:#2c2c2c;">About the Artist</h2>
+            <p style="font-size:1.05rem; margin-bottom:15px;">
+                <strong>Farook Mohammed</strong> is a visual artist and Pan-Africanist born and raised in Gqeberha, Nelson Mandela Bay, South Africa. His work is deeply rooted in the philosophy of <strong>Ubuntu</strong>, the belief that our humanity is intertwined with the humanity of others.
+            </p>
+            <p style="font-size:1.05rem; margin-bottom:15px;">
+                Through his art, Mohammed explores themes of African cultural heritage, Afrofuturism, decolonial aesthetics and the spiritual power of African womanhood. His works serve as bridges between Northern and Southern African traditions, challenging colonial narratives and asserting a bold new vision for the continent.
+            </p>
+            <p style="font-size:1.05rem; margin-bottom:0;">
+                Mohammed has been recognized globally as a <strong>MIPAD 100 Global Top 100 Honoree</strong> in the Afrofuturism & Creative Category (Class of 2024) and received the <strong>Mzansi Arts & Media Award (MAMA)</strong> for Best Exhibition Events Organizer in 2021. His work continues to inspire audiences across the world.
+            </p>
+        </div>
+
+        <!-- Footer -->
+        <div style="margin-top:40px; padding-top:25px; border-top:2px solid #eee; text-align:center; font-size:0.85rem; color:#888;">
+            <p style="margin:0;">© 2023 Farook Mohammed. All rights reserved.</p>
+            <p style="margin:5px 0 0 0; font-style:italic; color:#aaa;">Makoti belongs to Nelson Mandela Bay. The artist is merely the interim custodian.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
